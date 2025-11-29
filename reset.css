@@ -1,0 +1,16 @@
+body {
+   background:#F8F7F8
+   colour:#600B0B
+font-family: "Cinzel", serif;
+  font-optical-sizing: 300;
+}
+section, header {
+width:80%
+max-width: 900px;
+margin:auto
+}
+section, header {
+margin-bottom:4rem;
+
+
+}
