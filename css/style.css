@@ -13,6 +13,14 @@ section, header {
 margin-bottom:5rem;
 
 }
+header{
+     color:#851D1A;
+     font-size: 2.300rem;
+     line-height: 3rem;
+
+
+
+}
 header h1,h2,h3{
 font-family: "Cinzel", serif;
  } 
@@ -25,8 +33,8 @@ h1  {
 
     } 
 h2  {
-     font-size: 2.438rem;
-     line-height: 1rem;
+     font-size: 2.300rem;
+     line-height: 3rem;
      color: #ACA632;
      margin: 0rem 0 0rem 0;
      
