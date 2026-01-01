@@ -109,7 +109,7 @@ nav a:hover {
 
 
 footer {
-    background: #333333;
+    background: #FEF8E6;
     color: #f7f7f7;
     text-align: center;
     font-size: 0.8rem;
@@ -117,12 +117,12 @@ footer {
 }
 
 .light {
-    background: #fbd681;
+    background: #030303;
     padding: 3rem 0;
 }
 
 footer a {
-    color: #fbd681;
+    color: #030303;
 }
 
 footer a:hover {
