@@ -23,7 +23,8 @@ header{
 
 }
 header h1,h2,h3{
-font-family: "Cinzel", serif;
+font-family: "family Knockout HTF 49px ;
+
  } 
 
 h1  {
@@ -52,37 +53,24 @@ blockquote, p{
     padding: 1rem 0  ;
 
 }
-{}
-blockquote{
-    font-style: italic;
-    font-size: 1.000rem ;
-    hanging-punctuation: first ;
-    text-indent: -0.5;
-    
 
-
-}
-a:hover { colour:#DD370A}
-     a {
-    color:#743B09;
-    text-decoration: none;
-    border-bottom: 2px dotted;
-    font-weight: 600;
-|}
 .responsivenav {
-    background: #ECECE4;
-    padding:10px;
+    background: #743B09;
+    padding: 10px;
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     align-items: center;
 }
 
 #logo {
-    font-size: 2rem;
-    color:#851D1A;
-    font-weight: 600;
+   font-size: 2rem; 
+   color: #f7f7f7;
+   font-family: 'Merriweather', serif;
+   font-weight: 600;
    padding-left: 35px;
-   nav {
+}
+
+nav {
     display: flex;
     padding: 1.5rem 0;
 }
@@ -108,9 +96,10 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
+/*-- Styling the footer --*/
 
 footer {
-    background: #FEF8E6;
+    background: #333333;
     color: #f7f7f7;
     text-align: center;
     font-size: 0.8rem;
@@ -118,25 +107,33 @@ footer {
 }
 
 .light {
-    background: #030303;
+    background: #fbd681;
     padding: 3rem 0;
 }
 
 footer a {
-    color: #030303;
+    color: #fbd681;
 }
 
 footer a:hover {
-    color: #030303;
+    color: #f7f7f7;
 }
 .gridimage {
     display: grid;
     column-gap: 20px;
     grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
 
+a:hover { color:#ACA632}
 
-    
+.responsivenav {
+    background: #ECECE4;
+    padding:10px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
 
-
-
-
+#logo {
+    font-size: 2rem;
+    color:#851D1A;
+}
