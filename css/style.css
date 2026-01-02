@@ -137,3 +137,46 @@ a:hover { color:#ACA632}
     font-size: 2rem;
     color:#851D1A;
 }
+}
+.connections svg {
+    margin:1em auto;
+    padding-right: 10px;
+
+}
+
+    .connections a:hover svg path{
+        fill:#ACA632;
+        transition: all 0.3s ease-in-out;
+}
+footer .connections a:hover svg path|{
+    fill: #D8C385;
+    transition:all 0.3s ease-in-out;
+
+
+}
+}
+.connections svg {
+    margin:1em auto;
+    padding-right: 10px;
+
+}
+
+    .connections a:hover svg path{
+        fill:#ACA632;
+        transition: all 0.3s ease-in-out;
+}
+footer .connections a:hover svg path|{
+    fill: #D8C385;
+    transition:all 0.3s ease-in-out;
+
+
+}
+
+@media (max-width: 600px){
+    header h1 {
+    font-size: 4rem;
+    
+    }
+    .gridimage{
+        row-gap: 10px;
+    }
