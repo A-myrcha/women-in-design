@@ -1,7 +1,7 @@
 body {
-    background: #f7f7f7;
+    background: #ffffff;
     color: #333333;
-    font-family: "Merriweather Sans", sans-serif;
+    font-family:Arial, Helvetica, sans-serif
     font-weight: 300;
 }
 section, header {
@@ -12,14 +12,14 @@ section, header {
 }
 
 header h1, h2, blockquote {
-    font-family: "Merriweather", serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     color: #743B09;
 }
 
 header h1 {
     font-size: 7.451rem;
     line-height: 1;
-     color: #AE821C;
+     color: #435871;
      margin: 5rem 0 1rem 0;
 }
 
@@ -27,7 +27,7 @@ h2 {
     font-size: 1.953rem;
 }
 header h2 {
-    font-family: "Merriweather Sans", sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     font-weight: 300;
     color: #333333;
     font-style: oblique;
@@ -40,8 +40,8 @@ p{
 
 header p {
     font-size: 1.562rem;
-    font-family: "Merriweather", serif;
-    color: #743B09;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #435871;
 }
 blockquote{
 margin: 4rem 0 2rem 0;
@@ -62,11 +62,11 @@ a {
     border-bottom: 2px dotted;
     font-weight: 600;
 }
-a:hover { color:#AE821C}
+a:hover { color:#DD370A;}
 
 /*-- navigation --*/
 .responsivenav {
-    background: #743B09;
+    background: #435871;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -118,12 +118,12 @@ footer {
 }
 
 .light {
-    background: #fbd681;
+    background: #DD370A;
     padding: 3rem 0;
 }
 
 footer a {
-    color: #fbd681;
+    color: #DD370A;
 }
 
 footer a:hover {
@@ -134,10 +134,10 @@ footer a:hover {
     column-gap: 20px;
     grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
 
-a:hover { color:#ACA632}
+a:hover { color:##DD370A;}
 
 .responsivenav {
-    background: #ECECE4;
+    background: #f9f9f7;
     padding:10px;
     display: flex;
     justify-content:space-between;
