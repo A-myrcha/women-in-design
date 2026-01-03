@@ -1,59 +1,70 @@
-body{
-     background-color:#FEF8E6;
-     color: #333333;
-    font-family: "Mulish", sans-serif;
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: "Merriweather Sans", sans-serif;
     font-weight: 300;
 }
 section, header {
-width:80%;
-max-width: 900px;
-margin:auto;
-}
-section, header {
-margin-bottom:5rem;
-
-}
-header{
-     color:#DD370A;
-     font: family Knockout HTF 49px L;
-     font-size: 2.300rem;
-     line-height: 3rem;
-
-
-
-}
-header h1,h2,h3{
-font-family: "family Knockout HTF 49px ;
-
- } 
-
-h1  {
-     font-size: 3.812rem;
-     line-height: 1rem;
-     color: #DD370A;
-     margin: 5rem 0 3rem 0;
-
-    } 
-h2  {
-     font-size: 2.300rem;
-     line-height: 3rem;
-     color: #1A0088;
-     margin: 0rem 0 0rem 0;
-     
-} 
-h3  {
-     font-size: 1.562rem
-     line-height: 5rem;
-     color: #DD370A;
-     margin: -1rem 0 -1rem 0;
-
-     
-} 
-blockquote, p{
-    padding: 1rem 0  ;
-
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 5rem;
 }
 
+header h1, h2, blockquote {
+    font-family: "Merriweather", serif;
+    color: #743B09;
+}
+
+header h1 {
+    font-size: 7.451rem;
+    line-height: 1;
+     color: #AE821C;
+     margin: 5rem 0 1rem 0;
+}
+
+h2 {
+    font-size: 1.953rem;
+}
+header h2 {
+    font-family: "Merriweather Sans", sans-serif;
+    font-weight: 300;
+    color: #333333;
+    font-style: oblique;
+    margin-bottom: 4rem;
+}
+
+p{
+    line-height: 1.6;
+}
+
+header p {
+    font-size: 1.562rem;
+    font-family: "Merriweather", serif;
+    color: #743B09;
+}
+blockquote{
+margin: 4rem 0 2rem 0;
+ }
+
+blockquote {
+    line-height: 1.6;
+    font-style: italic;
+    font-size: 1.562rem;
+    hanging-punctuation: first;
+    text-indent: -0.6rem;
+}
+
+/*-- Styling links --*/
+a {
+    color:#743B09;
+    text-decoration: none;
+    border-bottom: 2px dotted;
+    font-weight: 600;
+}
+a:hover { color:#AE821C}
+
+/*-- navigation --*/
 .responsivenav {
     background: #743B09;
     padding: 10px;
@@ -136,7 +147,12 @@ a:hover { color:#ACA632}
 #logo {
     font-size: 2rem;
     color:#851D1A;
-}
+    
+
+
+
+
+
 }
 .connections svg {
     margin:1em auto;
@@ -154,24 +170,10 @@ footer .connections a:hover svg path|{
 
 
 }
-}
-.connections svg {
-    margin:1em auto;
-    padding-right: 10px;
 
-}
-
-    .connections a:hover svg path{
-        fill:#ACA632;
-        transition: all 0.3s ease-in-out;
-}
-footer .connections a:hover svg path|{
-    fill: #D8C385;
-    transition:all 0.3s ease-in-out;
 
 
 }
-
 @media (max-width: 600px){
     header h1 {
     font-size: 4rem;
