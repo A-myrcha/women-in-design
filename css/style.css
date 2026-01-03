@@ -57,7 +57,7 @@ blockquote {
 
 /*-- Styling links --*/
 a {
-    color:#743B09;
+    color:#DD370A;
     text-decoration: none;
     border-bottom: 2px dotted;
     font-weight: 600;
@@ -110,7 +110,7 @@ nav a:hover {
 /*-- Styling the footer --*/
 
 footer {
-    background: #333333;
+    color: #f7f7f7;
     color: #DD370A;
     text-align: center;
     font-size: 0.8rem;
@@ -134,7 +134,7 @@ footer a:hover {
     column-gap: 20px;
     grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
 
-a:hover { color:##DD370A;}
+a:hover { color:#DD370A;}
 
 .responsivenav {
     background: #f9f9f7;
