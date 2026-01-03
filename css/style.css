@@ -2,7 +2,7 @@ body {
     background: #ffffff;
     color: #333333;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    font-weight: 300;
+    font-weight:300;
 }
 section, header {
     width: 80%;
@@ -29,7 +29,7 @@ h2 {
     font-size: 1.953rem;
 }
 header h2 {
-    font-family:.bebas-neue-regular {
+    font-family:bebas-neue-regular {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
  color: #333333;
@@ -102,7 +102,7 @@ nav ul li {
 }
 nav a {
     border-bottom: none;
-    color: #f7f7f7;
+    color: #752121;
     padding: 10px;
 }
 nav a:hover {
@@ -113,7 +113,7 @@ nav a:hover {
 /*-- Styling the footer --*/
 
 footer {
-    color: #f7f7f7;
+    color: #944343;
     color: #DD370A;
     text-align: center;
     font-size: 0.8rem;
@@ -168,7 +168,7 @@ a:hover { color:#DD370A;}
         transition: all 0.3s ease-in-out;
 }
 footer .connections a:hover svg path|{
-    fill: #D8C385;
+    fill:#D8C385;
     transition:all 0.3s ease-in-out;
 
 

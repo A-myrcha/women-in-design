@@ -1,8 +1,8 @@
 body {
-   background:#F8F7F8
+   background:#F8F7F8 
    colour:#600B0B
-font-family: "Cinzel", serif;
-  font-optical-sizing: 300;
+  font-family: "Cinzel", serif;
+  font-sizing: 300;
 }
 section, header {
 width:80%
