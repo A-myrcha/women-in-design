@@ -12,8 +12,10 @@ section, header {
 }
 
 header h1, h2, blockquote {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    color: #743B09;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #743B09;
 }
 
 header h1 {
@@ -27,11 +29,12 @@ h2 {
     font-size: 1.953rem;
 }
 header h2 {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    font-weight: 300;
-    color: #333333;
-    font-style: oblique;
-    margin-bottom: 4rem;
+    font-family:.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+ color: #333333;
+font-style: oblique;
+margin-bottom: 4rem;
 }
 
 p{
