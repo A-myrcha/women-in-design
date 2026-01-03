@@ -28,8 +28,8 @@ header h1 {
 h2 {
     font-size: 1.953rem;
 }
-header h2 {
-    font-family:bebas-neue-regular {
+header h2{
+    font-family:bebas-neue-regular 
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
  color: #333333;
