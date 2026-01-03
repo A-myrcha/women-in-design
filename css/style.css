@@ -41,7 +41,7 @@ p{
 header p {
     font-size: 1.562rem;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: #435871;
+    color: #DD370A;
 }
 blockquote{
 margin: 4rem 0 2rem 0;
@@ -75,7 +75,7 @@ a:hover { color:#DD370A;}
 
 #logo {
    font-size: 2rem; 
-   color: #f7f7f7;
+   color:
    font-family: 'Merriweather', serif;
    font-weight: 600;
    padding-left: 35px;
@@ -103,7 +103,7 @@ nav a {
     padding: 10px;
 }
 nav a:hover {
-    color: #fbd681;
+    color: #DD370A;
     transition: all 0.3s ease-in-out;
 }
 
@@ -111,7 +111,7 @@ nav a:hover {
 
 footer {
     background: #333333;
-    color: #f7f7f7;
+    color: #DD370A;
     text-align: center;
     font-size: 0.8rem;
     padding: 4rem 0;
@@ -146,7 +146,7 @@ a:hover { color:##DD370A;}
 
 #logo {
     font-size: 2rem;
-    color:#851D1A;
+    color:#DD370A;
     
 
 
@@ -161,7 +161,7 @@ a:hover { color:##DD370A;}
 }
 
     .connections a:hover svg path{
-        fill:#ACA632;
+        fill:#DD370A;
         transition: all 0.3s ease-in-out;
 }
 footer .connections a:hover svg path|{
