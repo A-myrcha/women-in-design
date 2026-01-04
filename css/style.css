@@ -73,7 +73,7 @@ a:hover { color:#DD370A;}
 /*-- navigation --*/
 .responsivenav {
     background: #435871;
-    padding: 10px;
+    padding: 5px;
     display: flex;
     justify-content: space-between;
     align-items:last baseline;
