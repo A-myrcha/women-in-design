@@ -1,7 +1,8 @@
 body {
     background: #ffffff;
     color: #333333;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family:"Mulish", sans-serif;
+    font-optical-sizing: auto;
     font-weight:300;
 }
 section, header {
@@ -9,6 +10,7 @@ section, header {
     max-width: 800px;
     margin: auto;
     margin-bottom: 5rem;
+    font-family:"Bebas Neue", sans-serif;
 }
 
 header h1, h2, blockquote {
@@ -88,7 +90,7 @@ a:hover { color:#DD370A;}
 }
 
 #logo {
-   font-size: 6rem; 
+   font-size: 7rem; 
    color:#DD370A;
    font-family:"Bebas Neue", sans-serif;
    font-weight: 600;
