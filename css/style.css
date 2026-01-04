@@ -53,11 +53,12 @@ margin: 4rem 0 2rem 0;
  }
 
 blockquote {
-    line-height: 1.6;
+    line-height: 2.0;
     font-style: italic;
     font-size: 1.562rem;
     hanging-punctuation: first;
     text-indent: -0.6rem;
+    color:#DD370A
 }
 
 /*-- Styling links --*/
