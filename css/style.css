@@ -98,6 +98,7 @@ nav ul {
     letter-spacing: 1px;
     list-style-type: none;
     padding-right,padding-left,padding-top: 50px;
+    font-family:"Bebas Neue", sans-serif;
 }
 nav ul li {
     display: inline;
