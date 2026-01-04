@@ -86,7 +86,8 @@ a:hover { color:#DD370A;}
     padding: 10px;
     display: flex;
     justify-content: space-between;
-    align-items:last baseline;
+    align-items:last-baseline;
+    align-content: center;
 }
 
 #logo {
