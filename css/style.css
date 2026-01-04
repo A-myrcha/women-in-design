@@ -106,6 +106,7 @@ nav a {
     border-bottom: none;
     color: #DD370A;
     padding: 5px;
+    padding-top: 10px;
 }
 nav a:hover {
     color: #ffffff;
