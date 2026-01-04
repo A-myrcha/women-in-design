@@ -8,7 +8,7 @@ section, header {
     width: 80%;
     max-width: 800px;
     margin: auto;
-    margin-bottom: 10rem;
+    margin-bottom: 5rem;
 }
 
 header h1, h2, blockquote {
@@ -93,6 +93,7 @@ a:hover { color:#DD370A;}
    font-family:"Bebas Neue", sans-serif;
    font-weight: 600;
    padding-left: 35px;
+   margin-top: -5rem;
 }
 
 nav {
