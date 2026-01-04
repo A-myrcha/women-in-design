@@ -78,7 +78,7 @@ a:hover { color:#DD370A;}
 }
 
 #logo {
-   font-size: 2rem; 
+   font-size: 4rem; 
    color:#DD370A;
    font-family:"Bebas Neue", sans-serif;
    font-weight: 600;
@@ -103,18 +103,18 @@ nav ul li {
 }
 nav a {
     border-bottom: none;
-    color: #752121;
+    color: #DD370A;
     padding: 10px;
 }
 nav a:hover {
-    color: #DD370A;
+    color: #84b4e2;
     transition: all 0.3s ease-in-out;
 }
 
 /*-- Styling the footer --*/
 
 footer {
-    background-color: #944343;
+    background-color:#333333;;
     color: #DD370A;
     text-align: center;
     font-size: 0.8rem;
