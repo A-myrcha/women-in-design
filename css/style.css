@@ -22,8 +22,8 @@ header h1 {
     font-size: 7.451rem;
     line-height: 1;
      color: ##DD370A;
-     margin: 5rem 0 5rem 0;
-     padding-left,padding-right: 5rem;
+     margin: 5rem 0 1rem 0;
+     
 }
 
 h2 {
@@ -105,7 +105,7 @@ nav ul li {
 nav a {
     border-bottom: none;
     color: #DD370A;
-    padding: 10px;
+    padding: 0px;
 }
 nav a:hover {
     color: #84b4e2;
