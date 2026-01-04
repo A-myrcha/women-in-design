@@ -73,7 +73,7 @@ a:hover { color:#DD370A;}
 /*-- navigation --*/
 .responsivenav {
     background: #435871;
-    padding: 5px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items:last baseline;
@@ -117,7 +117,7 @@ nav a:hover {
 /*-- Styling the footer --*/
 
 footer {
-    background-color:#333333;;
+    background-color:#435871;
     color: #DD370A;
     text-align: center;
     font-size: 0.8rem;
@@ -138,6 +138,7 @@ footer a:hover {
 }
 .gridimage {
     display: grid;
+    
     column-gap: 20px;
     grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
 
