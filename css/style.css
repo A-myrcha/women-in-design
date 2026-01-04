@@ -76,7 +76,7 @@ a:hover { color:#DD370A;}
     padding: 10px;
     display: flex;
     justify-content: space-between;
-    align-items:baseline;
+    align-items:center;
 }
 
 #logo {
