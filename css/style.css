@@ -21,7 +21,7 @@ header h1, h2, blockquote {
 header h1 {
     font-size: 7.451rem;
     line-height: 1;
-     color: ##DD370A;
+     color: #DD370A;
      margin: 5rem 0 1rem 0;
      
 }
@@ -33,9 +33,9 @@ header h2{
     font-family:bebas-neue-regular 
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
- color: #333333;
-font-style: oblique;
-margin-bottom: 4rem;
+  color: #333333;
+  font-style: oblique;
+  margin-bottom: 4rem;
 }
 
 p{
@@ -80,7 +80,7 @@ a:hover { color:#DD370A;}
 }
 
 #logo {
-   font-size: 4rem; 
+   font-size: 6rem; 
    color:#DD370A;
    font-family:"Bebas Neue", sans-serif;
    font-weight: 600;
@@ -93,11 +93,11 @@ nav {
 }
 
 nav ul {
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
     list-style-type: none;
-    padding-right,padding-left: 50px;
+    padding-right,padding-left,padding-top: 50px;
 }
 nav ul li {
     display: inline;
