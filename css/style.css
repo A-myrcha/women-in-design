@@ -67,6 +67,7 @@ blockquote {
     hanging-punctuation: first;
     text-indent: -0.6rem;
     color:#DD370A;
+    line-height: .1rem;
 }
 
 /*-- Styling links --*/
