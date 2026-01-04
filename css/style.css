@@ -88,7 +88,7 @@ a:hover { color:#DD370A;}
 }
 
 #logo {
-   font-size: rem; 
+   font-size: 5rem; 
    color:#DD370A;
    font-family:"Bebas Neue", sans-serif;
    font-weight: 600;
@@ -134,6 +134,7 @@ footer {
     text-align: center;
     font-size: 0.8rem;
     padding: 4rem 0;
+    font-family: "Mulish", sans-serif;
 }
 
 .light {
