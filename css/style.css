@@ -105,10 +105,10 @@ nav ul li {
 nav a {
     border-bottom: none;
     color: #DD370A;
-    padding: 0px;
+    padding: 5px;
 }
 nav a:hover {
-    color: #84b4e2;
+    color: #ffffff;
     transition: all 0.3s ease-in-out;
 }
 
@@ -142,7 +142,7 @@ footer a:hover {
 a:hover { color:#DD370A;}
 
 .responsivenav {
-    background: #f9f9f7;
+    background: #ffffff;
     padding:10px;
     display: flex;
     justify-content:space-between;
