@@ -12,16 +12,16 @@ section, header {
 }
 
 header h1, h2, blockquote {
-  font-family: 435871
+  font-family:"Bebas Neue", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #743B09;
+  color: #DD370A;
 }
 
 header h1 {
     font-size: 7.451rem;
     line-height: 1;
-     color: #9d2e2e;
+     color: ##DD370A;
      margin: 5rem 0 1rem 0;
 }
 
@@ -43,7 +43,7 @@ p{
 
 header p {
     font-size: 1.562rem;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:"Bebas Neue", sans-serif;
     color: #DD370A;
     background-color: #435871;
 }
