@@ -190,3 +190,6 @@ footer .connections a:hover svg path|{
     .gridimage{
         row-gap: 10px;
     }
+.pageheader .logo {
+    padding: 2px 0;
+}
