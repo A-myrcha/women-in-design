@@ -23,6 +23,7 @@ header h1 {
     line-height: 1;
      color: ##DD370A;
      margin: 5rem 0 1rem 0;
+     padding-left,padding-right: 5rem;
 }
 
 h2 {
